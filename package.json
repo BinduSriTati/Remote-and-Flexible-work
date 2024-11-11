@@ -13,7 +13,7 @@
     "@sap/cds-hana": "^2",
     "@sap/cds-mtxs": "^2.0.3",
     "@sap/xsenv": "^5.2.0",
-    "@sap/xssec": "^3",
+    "@sap/xssec": "^4",
     "express": "^4"
   },
   "devDependencies": {
